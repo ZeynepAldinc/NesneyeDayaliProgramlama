@@ -1,0 +1,10 @@
+C:\Users\aldin\source\repos\ODEV_3\ODEV_3\bin\Debug\ODEV_3.exe.config
+C:\Users\aldin\source\repos\ODEV_3\ODEV_3\bin\Debug\ODEV_3.exe
+C:\Users\aldin\source\repos\ODEV_3\ODEV_3\bin\Debug\ODEV_3.pdb
+C:\Users\aldin\source\repos\ODEV_3\ODEV_3\obj\Debug\ODEV_3.csprojAssemblyReference.cache
+C:\Users\aldin\source\repos\ODEV_3\ODEV_3\obj\Debug\ODEV_3.Form1.resources
+C:\Users\aldin\source\repos\ODEV_3\ODEV_3\obj\Debug\ODEV_3.Properties.Resources.resources
+C:\Users\aldin\source\repos\ODEV_3\ODEV_3\obj\Debug\ODEV_3.csproj.GenerateResource.cache
+C:\Users\aldin\source\repos\ODEV_3\ODEV_3\obj\Debug\ODEV_3.csproj.CoreCompileInputs.cache
+C:\Users\aldin\source\repos\ODEV_3\ODEV_3\obj\Debug\ODEV_3.exe
+C:\Users\aldin\source\repos\ODEV_3\ODEV_3\obj\Debug\ODEV_3.pdb
